@@ -13,6 +13,8 @@
     Contoh perubahannya
 
     NEW BRANCH UPDATED
+    
+    UPDATE LAGI dari direktori lain dan balikin ke direktori awal
 </body>
 
 </html>

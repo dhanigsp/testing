@@ -12,7 +12,7 @@
 
     Contoh perubahannya
 
-    UPDATE LAGI
+    UPDATE LAGI dari direktori lain dan balikin ke direktori awal
 </body>
 
 </html>
